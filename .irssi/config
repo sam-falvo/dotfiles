@@ -12,7 +12,7 @@ servers = (
 chatnets = {
   Freenode = {
     type = "IRC";
-    autosendcmd = "^nick kc5tja;wait 1000;msg nickserv identify qwerasdf;wait 2000";
+    autosendcmd = "^nick kc5tja;wait 1000;msg nickserv identify SET_TO_NEW_PASSWORD;wait 2000";
   };
 };
 
