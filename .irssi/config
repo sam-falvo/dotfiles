@@ -18,12 +18,6 @@ chatnets = {
 
 channels = (
   { name = "##rssf"; chatnet = "Freenode"; autojoin = "yes"; },
-  {
-    name = "#ele-dev";
-    chatnet = "Freenode";
-    autojoin = "yes";
-    password = "roosevelt";
-  }
 );
 
 aliases = {
