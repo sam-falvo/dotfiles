@@ -17,7 +17,6 @@ chatnets = {
 };
 
 channels = (
-  { name = "##rssf"; chatnet = "Freenode"; autojoin = "yes"; },
 );
 
 aliases = {
