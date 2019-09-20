@@ -5,6 +5,12 @@ My set of dotfiles which I like to share between machines.  Assumes Bash, but ha
 
 # Change Log
 
+## 0.4 - Thu 19 Sep 2019 07:32:06 PM PDT
+
+**ADDED**.
+
+* Enforced size for mouse cursor.
+
 ## 0.3 - Wed 18 Sep 2019 01:11:32 PM PDT
 
 
