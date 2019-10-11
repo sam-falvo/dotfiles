@@ -5,6 +5,12 @@ My set of dotfiles which I like to share between machines.  Assumes Bash, but ha
 
 # Change Log
 
+## 0.5 - Fri 11 Oct 2019 03:01:50 PM PDT
+
+**ADDED**.
+
+* Bashrc tweaks to put current working directory on right-hand side of Bash prompt.
+
 ## 0.4 - Thu 19 Sep 2019 07:32:06 PM PDT
 
 **ADDED**.
