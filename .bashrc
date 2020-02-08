@@ -49,3 +49,8 @@ export PROMPT_COMMAND='prompt_pre'
 
 # END Stack Overflow Excerpt
 
+# BEGIN Bash history configuration
+shopt -s histappend
+export HISTFILESIZE=65536
+export HISTSIZE=65536
+# END Bash history configuration
