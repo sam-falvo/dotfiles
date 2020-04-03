@@ -2,6 +2,12 @@
 
 My set of dotfiles which I like to share between machines.  Assumes Bash, but has some ZSH support as well.
 
+# Mouse Pointer Theme
+
+If you're running some kind of freakish Gnome-like thing, you might want to use the following instead of the xinitrc file provided:
+
+    gsettings set org.gnome.desktop.interface cursor-theme "kc5tja"
+    gsettings set org.gnome.desktop.interface cursor-size 32
 
 # Change Log
 
